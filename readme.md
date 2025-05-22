@@ -11,7 +11,7 @@ APK Installer with Antivirus is an Android application that provides secure APK 
 - **Dataset Evaluation**: Generates accuracy metrics for malware detection
 
 ## 📸 Screenshots
-![Main Screen](screenshots/main_screen.jpg)
+![Main Screen](.github/main_screen.jpg)
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
