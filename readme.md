@@ -22,7 +22,7 @@ APK Installer with Antivirus is an Android application that provides secure APK 
 
 ### Configuration
 1. Clone the repository
-2. Add your Gemini API key to `local.properties`:
+2. Add your Gemini API key to `gradle.properties`:
 GEMINI_API_KEY=your_api_key_here
 
 3. Open the project in Android Studio and sync Gradle
