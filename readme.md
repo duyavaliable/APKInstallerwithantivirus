@@ -15,9 +15,9 @@ APK Installer with Antivirus is an Android application that provides secure APK 
 ## 🛠️ Setup Instructions
 
 ### Prerequisites
-- Android Studio Hedgehog (2023.1.1) or newer
-- Kotlin 1.9.0+
-- Java 8
+- Android Studio 
+- Kotlin 
+- Java 
 - Gemini API key
 
 ### Configuration
@@ -46,23 +46,6 @@ GEMINI_API_KEY=your_api_key_here
 4. Start analysis to evaluate multiple APKs
 5. View comprehensive metrics and reports
 
-## 📂 Dataset Structure
-
-/sdcard/apk_dataset/
-
-├── safe/               # APK files verified as safe
-│   ├── app1.apk
-│   ├── app2.apk
-│   └── ... (clean applications)
-
-├── malware/            # APK files identified as malicious
-│   ├── malware1.apk
-│   ├── malware2.apk
-│   └── ... (malicious applications)
-
-└── suspicious/         # APK files with suspicious behavior (optional)
- ├── suspicious1.apk
- └── ... (potentially harmful applications)
 
 ## 🔍 Dataset Description
 
